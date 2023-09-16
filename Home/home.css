@@ -121,7 +121,7 @@ input:focus {
 }
 .error{
     position: absolute;
-    bottom: 602px;
+    bottom: 600px;
     margin-right: 480px;
     color: red;
     display: none;
